@@ -102,5 +102,5 @@ jupyter notebook Movies_Data_Analysis.ipynb
 
 ---
 
-## 👩‍💻 Contributors
+## 👩‍💻 Contributor
 - [Azim Nahin](https://github.com/AzimNahin)
