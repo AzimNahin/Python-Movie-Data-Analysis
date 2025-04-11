@@ -102,8 +102,5 @@ jupyter notebook Movies_Data_Analysis.ipynb
 
 ---
 
-## 👩‍💻 Author
-
-**Umama Dewan**  
-Final Year CSE Student | BUET  
-Data Visualization & Analytics Enthusiast
+## 👩‍💻 Contributors
+- [Azim Nahin](https://github.com/AzimNahin)
